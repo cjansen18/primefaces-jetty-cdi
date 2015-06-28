@@ -4,7 +4,7 @@ PrimeFaces Cookbook (Second Edition). All examples are compatible with PrimeFace
 
 Chris Jansen version
 --------------------
-* Added CDI support for Jetty server embedded in Maven!
+* Added CDI support for Jetty server embedded in Maven!  Note, this requires Maven 3.2.5!!!
 
 Prerequisites
 -------------
